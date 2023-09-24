@@ -1,3 +1,3 @@
-# Te Wild Oasis
+# The Wild Oasis
 
 Main project in Jonas Ultimate React Course
